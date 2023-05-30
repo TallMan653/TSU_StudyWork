@@ -1,0 +1,10 @@
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/Experimental.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/Nightly.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/Continuous.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/tmcor-c-lib.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/Chapter_3_Homework.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/PACKAGE.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/2_term/3_Chapter_Homework/build/CMakeFiles/ZERO_CHECK.dir

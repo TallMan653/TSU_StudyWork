@@ -1,0 +1,10 @@
+^C:\USERS\LBVF6\DESKTOP\WORK\TSU_C_WORK\1_TERM\9_CHAPTER\BUILD\CMAKEFILES\F9F90E3EE0F87AE25416DFD9E1BE2333\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/9_Chapter -BC:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/9_Chapter/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/9_Chapter/build/Chapter_9_22.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

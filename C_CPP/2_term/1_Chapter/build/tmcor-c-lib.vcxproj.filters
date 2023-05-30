@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\lbvf6\Desktop\Work\TSU_C_Work\2_term\1_Chapter\tmcor_c_lib.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\lbvf6\Desktop\Work\TSU_C_Work\2_term\1_Chapter\tmcor_c_lib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\lbvf6\Desktop\Work\TSU_C_Work\2_term\1_Chapter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CB5ABE6D-7062-3C7C-BDCD-4FB3C3C8E9BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8B6538C-2BF4-3D6E-9179-8AB1A6E43537}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

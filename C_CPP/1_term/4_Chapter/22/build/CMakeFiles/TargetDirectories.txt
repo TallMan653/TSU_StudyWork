@@ -1,0 +1,10 @@
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/Experimental.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/Nightly.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/Continuous.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/tmcor-c-lib.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/Chapter_4_22.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/PACKAGE.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/lbvf6/Desktop/Work/TSU_C_Work/1_term/4_Chapter/22/build/CMakeFiles/ZERO_CHECK.dir
